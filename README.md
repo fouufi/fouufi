@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fouufi
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and forensic science
 - 🌱 I’m currently learning react native and symfony
 - 📫 How to reach me : 
   - via email : fanny@morvan.me
