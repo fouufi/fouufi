@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fouufi
 - 👀 I’m interested in web development and forensic science
-- 🌱 I’m currently learning react native and symfony
+- 🌱 I’m currently working on some projects focusing on cybersecurity challenges
 - 📫 How to reach me : 
   - via email : fanny@morvan.me
   - via linkedin : https://www.linkedin.com/in/fanny-morvan-06601b14b/
